@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+.header {
+    background-image: url(https://i.ibb.co/1XSQQ0t/bg1.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.navItem {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 86px;
+    font-size: 38px;
+}
+
+.navItem:last-child {
+    margin-right: 0;
+}
+
+
+.navItem:hover {
+    color: #abe0b0;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    padding-top: 34px;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 80px;
+    width: 1000px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 146px;
+}
+
+.subtitle {
+    color: #fff;
+    font-size: 56px;
+    font-weight: 900;
+    text-align: center;
+    width: 514px;
+    line-height: 44px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.input {
+    width: 447px;
+    height: 67px;
+    font-size: 24px;
+    padding-left: 15px;
+   
+    outline: none;
+
+    border: 4px #8D8D8D solid;
+    border-radius: 20px;
+}
+
+.forma {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.btn {
+    background-color: #5B89CE;
+    padding: 15px 18px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    border: 2px #476443 solid;
+    border-radius: 20px;
+}
+
+.btn:hover {
+    background-color: #204275;
+}
+
+.button {
+    text-align: center;
+    margin-top: 25px;
+}
